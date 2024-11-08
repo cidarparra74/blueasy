@@ -1,0 +1,14 @@
+# Ignorar archivos y directorios específicos
+node_modules/
+*.psd
+
+
+# Ignorar archivos de configuración del entorno
+.env
+
+# Ignorar archivos de dependencias
+package-lock.json
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
